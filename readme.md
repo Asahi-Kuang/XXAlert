@@ -31,7 +31,7 @@
 	[alert originalSetting];
 ```
 
-######5. set whether you need to tap the black to hidden the alert:
+######5. set whether you need to tap the blank in the view to hidden the alert:
 ```
 	[alert setTapGesEnable:YES];
 ```
