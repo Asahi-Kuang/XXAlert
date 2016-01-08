@@ -8,7 +8,7 @@
 
 ######[github](https://github.com/Asahi-Kuang)
 
-######Author Email: https://asahikuang@yahoo.com
+######Author Email: http://asahikuang@yahoo.com
 ##DESCRIPTION
 ######`XXAlert`can pop a action sheet which can has no matter how much funtion buttons.It is easy to use.And it has a protocol,you can use the method in protocol to control what the function button does.
 
